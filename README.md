@@ -1,4 +1,4 @@
-# realtime_number_plate-reconization
+# Realtime_number_plate-reconization
 This project implements a complete deep learning pipeline for detecting vehicles and recognizing their license plate numbers from video footage.It combines object detection and optical character recognition (OCR) to create an accurate, real-world system for traffic monitoring and automation.
 ________________________________________
 Project Workflow
